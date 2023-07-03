@@ -1,2 +1,2 @@
 # Octave
-Octaveレポジトリ
+[Octaveコンパイラ](https://www.mycompiler.io/ja/new/octave)
